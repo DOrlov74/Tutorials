@@ -1,0 +1,12 @@
+  
+/node_modules
+*.log
+.vscode
+.cache
+package-lock.json
+/chapter_14
+/Firebase
+/Request
+/Tutorial
+/ui-lib-project
+*.zip
